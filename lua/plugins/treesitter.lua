@@ -15,7 +15,7 @@ return {
 				used_by = { "gohtmltmpl", "gotexttmpl", "gotmpl", "yaml" },
 			}
 
-			parser_config.gotmpl = {
+			parser_config.lalrpop = {
 				install_info = {
 					url = "https://github.com/traxys/tree-sitter-lalrpop",
 					files = { "src/parser.c" },
