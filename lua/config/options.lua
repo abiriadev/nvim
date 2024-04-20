@@ -69,6 +69,11 @@ vim.filetype.add({
 		envrc = "bash",
 
 		lalrpop = "lalrpop",
+		pest = "pest",
+		melody = "melody",
+		mdy = "melody",
+
+		tsp = "typespec",
 
 		["sublime-syntax"] = "yaml",
 
